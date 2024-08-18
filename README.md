@@ -1,11 +1,14 @@
 ## Olá ! Sou o Estevão Gonzales Elias
 <div>
-   <a href="https://discord.gg/SrEstevao03" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
-   
+   <a href="https://github.com/estevaogonzales" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+   <a href="" target="_blank"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" target="_blank"></a>
+   <a href="mailto:estevaogonzaleselias@gmail.com?subject=Bom dia, gostaria de falar com você" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+   <a href="" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+   <a href="" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
-
 ##
+
 - 🙋Tenho 21 anos
 - 🐣Sou Brasileiro natural de <a href="https://www.franca.sp.gov.br/turismo/administracao-municipal/administracao-direta/desenvolvimento-adm/conheca">`Franca-SP`<a>
 - 🧑‍🎓Estou cursando Engenharia Eletrônica na <a href="https://www.utfpr.edu.br/campus/cornelioprocopio/sobre">`UTFPR-CP`<a>
