@@ -1,5 +1,11 @@
 ## Olá ! Sou o Estevão Gonzales Elias
+<div>
+   <a href="https://discord.gg/SrEstevao03" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+   
+</div>
 
+
+##
 - 🙋Tenho 21 anos
 - 🐣Sou Brasileiro natural de <a href="https://www.franca.sp.gov.br/turismo/administracao-municipal/administracao-direta/desenvolvimento-adm/conheca">`Franca-SP`<a>
 - 🧑‍🎓Estou cursando Engenharia Eletrônica na <a href="https://www.utfpr.edu.br/campus/cornelioprocopio/sobre">`UTFPR-CP`<a>
